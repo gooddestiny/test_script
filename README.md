@@ -1,2 +1,4 @@
-# test_script
-common script
+# 测试脚本
+本项目主要是记录工作上常用到的脚本demo，方便进行整合以达到开发要求。
+
+
